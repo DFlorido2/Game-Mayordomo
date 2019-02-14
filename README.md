@@ -12,6 +12,6 @@ para darle el color y la forma al tablero y establecer diferentes clases.
 
 Desde el punto de vista del servidor he utilizado PHP, estuve mirando de hacerlo con NODE.js, pero me hubiera llevado más tiempo, ya
 que debería haber dedicado más días a aprenderlo, y con PHP me sentía mucho más cómodo. Aún así estoy mirado ya documentación y
-tutoriales de NODE.js para empezar lo antes posible, ya que es un lenguaje que tengo muchas ganas de utilizar.
+tutoriales de NODE.js para empezar lo antes posible, ya que es un lenguaje que tengo muchas ganas de utilizar. 
 
 
