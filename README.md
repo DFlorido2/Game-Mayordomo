@@ -1,7 +1,7 @@
 # Game-Mayordomo.
 
 He programado el juego de la manera más sencilla posible, como ponía en las instrucciones, así que no he utilizado ningún 
-framework, a parte de BOOTSTRAP, ya que no lo he considerado necesario para hacer esta pequeña prueba.El código está comentado en los lugares que he creído más oportuno, aún así si te surge alguna duda, dímelo
+framework, a parte de BOOTSTRAP, ya que no lo he considerado necesario para hacer esta pequeña prueba. El código está comentado en los lugares que he creído más oportuno, aún así si te surge alguna duda, dímelo
 
 Si que he utilizado JQUERY para tratar los datos que me llegan del servidor y para gestionar las diferentes acciones que realiza el 
 jugador y mandarlas correctamente al servidor y allí tratar toda la información de la manera que corresponda. Tambien he utilizado CSS
